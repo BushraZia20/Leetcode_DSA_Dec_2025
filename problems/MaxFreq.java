@@ -1,4 +1,4 @@
-import java.util.*; // for handling input/output
+import java.util.*;
 
 public class MaxFreq {
     public static void main(String[] args) {
