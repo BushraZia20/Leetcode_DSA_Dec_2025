@@ -24,6 +24,8 @@ public class JumpGame {
     }
 
     /*
+     * goal - to reach the last idx.
+     * 
      * mxR = 0
      * for i = 0 ==> n-1
      * if (i > mxR) false
